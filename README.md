@@ -10,18 +10,6 @@
 
 ###
 
-<p align="left"># Hi there! 👋<br><br>I'm **Avvan Fauzan**, a **junior full-stack developer** passionate about building web applications and continuously learning. I bridge the gap between beautiful design and robust functionality, tackling both frontend and backend challenges (while occasionally creating bugs for fun!).<br><br>✨ Creating bugs since I started coding—it's my unofficial specialty! But I promise I'm getting better at solving complex issues (eventually).<br><br>📚 Currently diving deeper into **Node.js**, **Express**, and **MongoDB** for the backend, while mastering **React** with **TypeScript** for the frontend. I’m focused on writing cleaner, more efficient code—because who likes messy code, right? <br><br>🎯 My goal is to become a **versatile developer**, capable of building scalable applications and contributing to impactful projects (and maybe a few memes along the way!).<br><br>🎲 Fun fact: I often spend hours debugging, only to realize it was just a simple typo! It’s like finding out the treasure was in your backyard all along—coding is definitely a rollercoaster ride!  <br>🌱 I’m also interested in **cybersecurity**, **language learning**, and understanding systems at a deeper level (and how to avoid those pesky typos!).<br><br>⚡ Let's build something awesome together (and maybe have a few laughs along the way)!</p>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/mafazan">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=mafazan&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vannWithF&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vannWithF&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -29,6 +17,10 @@
   <img src="https://github-profile-trophy.vercel.app?username=vannWithF&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vannWithF&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
+###
+
+<p align="left"># Hi there! 👋<br><br>I'm **Avvan Fauzan**, a **junior full-stack developer** passionate about building web applications and continuously learning. I bridge the gap between beautiful design and robust functionality, tackling both frontend and backend challenges (while occasionally creating bugs for fun!).<br><br>✨ Creating bugs since I started coding—it's my unofficial specialty! But I promise I'm getting better at solving complex issues (eventually).<br><br>📚 Currently diving deeper into **Node.js**, **Express**, and **MongoDB** for the backend, while mastering **React** with **TypeScript** for the frontend. I’m focused on writing cleaner, more efficient code—because who likes messy code, right? <br><br>🎯 My goal is to become a **versatile developer**, capable of building scalable applications and contributing to impactful projects (and maybe a few memes along the way!).<br><br>🎲 Fun fact: I often spend hours debugging, only to realize it was just a simple typo! It’s like finding out the treasure was in your backyard all along—coding is definitely a rollercoaster ride!  <br>🌱 I’m also interested in **cybersecurity**, **language learning**, and understanding systems at a deeper level (and how to avoid those pesky typos!).<br><br>⚡ Let's build something awesome together (and maybe have a few laughs along the way)!</p>
 
 ###
 
