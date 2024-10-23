@@ -1,10 +1,5 @@
-<h1 align="left">Haloo! 👋</h1>
+<h1 align="left">Haloo! 👋 My name is Avvan Fauzan, and I'm a Junior Fullstack Developer (I think, hehe 😄) From Bogor.</h1>
 
-###
-
-<p align="left">My name is Avvan Fauzan, and I'm a Junior Fullstack Developer (I think, hehe 😄) From Bogor.</p>
-
-###
 
 <h2 align="left">About me</h2>
 
