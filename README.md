@@ -1,4 +1,4 @@
-<h1 align="left">Haloo! 👋 My name is Affan Fauzan, and I'm a Junior Fullstack Developer (I think, hehe 😄) From Bogor.</h1>
+<h1 align="left">Haloo! 👋 My name is Affan Fauzan, and I'm a Ex Web Developer, And Now Hardware enjoyer</h1>
 
 
 <h2 align="left">About me</h2>
