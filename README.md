@@ -1,4 +1,4 @@
-<h1 align="left">Haloo! 👋 My name is Affan Fauzan, and I'm a Ex Web Developer, And Now Hardware enjoyer</h1>
+<h1 align="left">Haloo! 👋 My name is Affan Fauzan, I'am a web developer, And I a hardware enthusiast</h1>
 
 
 <h2 align="left">About me</h2>
